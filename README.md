@@ -24,6 +24,8 @@ Backend & Web Programmer
 - **Git**
 - **Selenium (PHP WebDriver)**
 
+___
+
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [posipov23@gmail.com](mailto:posipov23@gmail.com)
 * 🤝  I'm open to collaborating on MVC or Backend
