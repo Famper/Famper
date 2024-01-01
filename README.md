@@ -22,6 +22,7 @@ Backend & Web Programmer
 - **Aiogram**
 - **Telegram API**
 - **Git**
+- **Selenium (PHP WebDriver)**
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [posipov23@gmail.com](mailto:posipov23@gmail.com)
