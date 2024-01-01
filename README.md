@@ -4,24 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend & Web Programmer
 ------------------------
 
-Работаю с backend свыше 5-и лет. Профессионально работаю уже год Web-разработчиком, попутно имея свои проекты на других языках.
+Работаю с **backend** свыше 5-и лет. Профессионально работаю уже год **Web-разработчиком**, попутно имея свои проекты на других языках.
 
 Мне знакомы следующие вещи:
-- PHP 7.X-8.X
-- Python 3.X
-- SQL: MySQL, PSQL, SQLite, MariaD
-- MVC
-- SOLID
-- ООП: Для обоих языков
-- JavaScript
-- MongoDB
-- HTML + CSS
-- Django
-- Yii2
-- Docker + Docker compose
-- Aiogra
-- Telegram API
-- Git
+- **PHP** 7.X-8.X
+- **Python** 3.X
+- **SQL**: MySQL, PSQL, SQLite, MariaD
+- **MVC**
+- **SOLID**
+- **ООП**: Для обоих языков
+- **JavaScript**
+- **MongoDB**
+- **HTML** + **CSS**
+- **Django**
+- **Yii2**
+- **Docker** + **Docker compose**
+- **Aiogram**
+- **Telegram API**
+- **Git**
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [posipov23@gmail.com](mailto:posipov23@gmail.com)
