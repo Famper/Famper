@@ -18,6 +18,7 @@ Backend & Web Programmer
 - **HTML** + **CSS**
 - **Django**
 - **Yii2**
+- **Laravel**
 - **Docker** + **Docker compose**
 - **Aiogram**
 - **Telegram API**
