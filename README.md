@@ -1,5 +1,7 @@
 ![Без имени](https://github.com/user-attachments/assets/708e5f9c-c670-4da7-a902-9a52d2f3d5d3)
 
+![](https://komarev.com/ghpvc/?username=Famper)
+
 
 Backend & Web Programmer
 ------------------------
@@ -67,3 +69,4 @@ ___
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
